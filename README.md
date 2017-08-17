@@ -1,4 +1,7 @@
-## Tharini's Portfolio
+## T H A R I N I
+
+
+[**Design**] [**Prints**] [**Sketchbook**] [**Fragments**] [**About**] [**Contact**]
 
 You can use the [editor on GitHub](https://github.com/perpetuallybecoming/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
